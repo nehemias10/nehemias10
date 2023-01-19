@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![nehemias10's GitHub stats](https://github-readme-stats.vercel.app/api?username=nehemias10)](https://github.com/nehemias10/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nehemias10)](https://github.com/nehemias10/github-readme-stats)
+![Top Langs] https://github-readme-stats.vercel.app/api?username=nehemias10&count_private=true&show_icons=true&theme=radical
+
