@@ -1,3 +1,6 @@
+
+Hola, mi nombre es Nehemías Rivero!
+
 Soy un desarrollador Full-Stack Jr, comprometido con su trabajo, con gran capacidad de trabajo en equipo, quien se encuentra en búsqueda de nuevos aprendizajes y desarrollo profesional y personal.
 
 Habilidades Duras: 
