@@ -1,10 +1,12 @@
 Soy un desarrollador Full-Stack Jr, comprometido con su trabajo, con gran capacidad de trabajo en equipo, quien se encuentra en búsqueda de nuevos aprendizajes y desarrollo profesional y personal.
+
 Habilidades Duras: 
 
-| JavaScript | Python | React.js | HTML | Bootstrap | Flask | CSS | SQL | Git |
+   | JavaScript | Python | React.js | HTML | Bootstrap | Flask | CSS | SQL | Git |
 
 Habilidades Blandas:
-| Trabajo en equipo | Resiliencia | Buena Comunicación | Auto-aprendizaje | Perseverancia | Escucha activa
+
+   | Trabajo en equipo | Resiliencia | Buena Comunicación | Auto-aprendizaje | Perseverancia | Escucha activa
 
 Actualmente me encuentro aprendiendo Angular y realizando proyectos.
 
