@@ -1,9 +1,16 @@
 Soy un desarrollador Full-Stack Jr, comprometido con su trabajo, con gran capacidad de trabajo en equipo, quien se encuentra en búsqueda de nuevos aprendizajes y desarrollo profesional y personal.
+Habilidades Duras: 
 
 | JavaScript | Python | React.js | HTML | Bootstrap | Flask | CSS | SQL | Git |
 
 Habilidades Blandas:
 | Trabajo en equipo | Resiliencia | Buena Comunicación | Auto-aprendizaje | Perseverancia | Escucha activa
+
+Actualmente me encuentro aprendiendo Angular y realizando proyectos.
+
+Para contactarme:
+LinkedIn: https://www.linkedin.com/in/nehem%C3%ADas-david-rivero-hern%C3%A1ndez-336866222/
+Correo: nehemiasrivero1@gmail.com
 
 <!--
 **nehemias10/nehemias10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
