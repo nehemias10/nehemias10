@@ -14,6 +14,7 @@ Habilidades Blandas:
 Actualmente me encuentro aprendiendo Angular y realizando proyectos.
 
 Para contactarme:
+
 LinkedIn: https://www.linkedin.com/in/nehemiasrivero/
 
 Correo: nehemiasrivero1@gmail.com
